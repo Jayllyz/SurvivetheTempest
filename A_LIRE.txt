@@ -1,0 +1,1 @@
+Avant de lancer le jeu il faut installer Python (version la plus récente) ainsi que Pygame (vous avez une cmd à dispostion) bon jeu !

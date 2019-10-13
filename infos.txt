@@ -1,0 +1,92 @@
+Taille écran : 800 pixels /608 pixels
+
+[A tester]: 
+    si je veux découper mon écran en plusieurs tiles de 32x32 pixels , de façon à obtenir un nombre entier
+
+    je fais 608 /32 = 19
+    et 800/32 = 25 , ce qui fais que je peux placer 19 tiles en hauteur et 25 en largeur 
+
+    test à faire , avec idée de liste en deux dimensions 
+
+Commenter si nécessaire son code .
+
+Architecture des fichiers 
+{
+    -images
+        - ...
+    -modules
+        - ...
+    -sons
+        - ...
+    -data
+        -save
+            - sauvegarde.stt
+        -map
+            - terrain.map
+    -main.py
+}
+
+essayer le plus possible de gérer les erreurs 
+
+Nom de variables/fonctions/objet/class:
+
+
+variables : 
+
+écrite en minuscule : variable
+
+pour les espaces : ma_variable
+
+nombres autorisés
+
+constantes :
+
+toutes écris en majuscules : VARIABLE
+pour les espaces : MA_VARIABLE
+mettre un commentaire pour expliquer ce à quoi sert la constante si nécessaire
+
+fonctions : 
+
+commentaires si besoin pour expliquer à quoi sert la fonction
+même règles que pour variables
+
+class : 
+
+    Commence par une majuscule , et une majuscule pour chaque nouveau mot (tout coller pas de '_')
+    ex : UneClasse
+    commentaire en début de classe pour la décrire
+
+objet : 
+
+même règles que pour les variables
+
+
+attributs : 
+
+même règles que pour les variables
+
+méthode : 
+
+mêmes règles que pour les fonctions
+
+
+propriété :
+
+pour l'attribut qui servira de base à la propriété , même que pour attribut sauf que on commence par un '_' 
+ex : _mon_attribut
+    pour la méthode de propriété aussi
+ex :  def _get_age(self)etc...
+
+pour le nom de la propriété , pas de '_' en premier caractères et mêmes règles qu'un attribut
+
+ex : age = property(_get_age)
+
+
+liste : 
+    comme pour les variables
+
+
+
+
+
+
