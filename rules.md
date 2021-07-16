@@ -1,4 +1,4 @@
-# SURVIVE THE TEMPEST
+# SURVIVE THE TEMPEST - RULES
 
 **Principe du jeu :** Un survivant(avec ses données sauvegardées) doit survivre dans une forêt, et se préparer un abri(niveau "12") afin de résister à la tempête qui arrivera dans les
 prochains jours.
