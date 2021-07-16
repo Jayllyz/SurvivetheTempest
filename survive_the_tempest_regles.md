@@ -79,16 +79,16 @@ lvl 10 coûts(40 bois, 25 pierre, 12 cuivre, 6 fers, 3 ors) -> +1 de base et 75 
 chaque niveau augmente le pourcentage de chance de drop une(ou plusieurs) ressources à la fois
 Augmente le nombre de ressources de bases récoltées
 Chaque niveau augmente le pourcentage de chance de drop une ressource plus rare
-lvl 1 coût(1 pierre) - > +1 de base de pierre
-lvl 2 coûts(2 pierre) - > +1 de base de pierre, pierre = 65 %, cuivre = 25 %
-lvl 3  (3 pierre, 1 bois) - > +1 de base de pierre, fer = 10 %, pierre = 60 %60 %
-lvl 4 coûts(4 pierre, 2 bois) - >  33 % de chance de +1
-lvl 5 coûts(6 pierre, 4 bois) - > 45 % de chance de +1
-lvl 6 coûts(10 pierre, 8 bois, 3 cuivre) -> 45 % de chance de +1, +25 % de chance de +1, fer= 15 %, pierre = 55 %
-lvl 7 coûts,(15 pierre , 10 bois, 6 cuivre, 1 fer) -> +1 de base de pierre
-lvl 8 coûts(25 pierre, 15 bois, 10 cuivre , 4 fer) - > 55% de chance de +1, 33% de chance de +1 ,or = 7%, pierre = 53%
-lvl 9 coût(30 pierre, 20 bois, 12 cuivre, 6 fer, 1 or) - > 60% de chance de +1, 45% de chance de +1 , cuivre = 30% , pierre = 48%
-lvl 10 coût(40 pierre, 25 bois, 12 cuivre, 6 fer, 3 or) -> +1 de base et 75% de chance de +1, 55% de chance de +1, fer = 20%, pierre = 40%, or = 10%
+- lvl 1 coût(1 pierre) - > +1 de base de pierre
+- lvl 2 coûts(2 pierre) - > +1 de base de pierre, pierre = 65 %, cuivre = 25 %
+- lvl 3  (3 pierre, 1 bois) - > +1 de base de pierre, fer = 10 %, pierre = 60 %60 %
+- lvl 4 coûts(4 pierre, 2 bois) - >  33 % de chance de +1
+- lvl 5 coûts(6 pierre, 4 bois) - > 45 % de chance de +1
+- lvl 6 coûts(10 pierre, 8 bois, 3 cuivre) -> 45 % de chance de +1, +25 % de chance de +1, fer= 15 %, pierre = 55 %
+- lvl 7 coûts,(15 pierre , 10 bois, 6 cuivre, 1 fer) -> +1 de base de pierre
+- lvl 8 coûts(25 pierre, 15 bois, 10 cuivre , 4 fer) - > 55% de chance de +1, 33% de chance de +1 ,or = 7%, pierre = 53%
+- lvl 9 coût(30 pierre, 20 bois, 12 cuivre, 6 fer, 1 or) - > 60% de chance de +1, 45% de chance de +1 , cuivre = 30% , pierre = 48%
+- lvl 10 coût(40 pierre, 25 bois, 12 cuivre, 6 fer, 3 or) -> +1 de base et 75% de chance de +1, 55% de chance de +1, fer = 20%, pierre = 40%, or = 10%
 
 **Pour L'eau et la viande :**
 chaque niveau augmente le pourcentage de chance de drop une(ou plusieurs) ressources à la fois
