@@ -13,6 +13,7 @@ Chaque tour de jeu correspond à un jour,
 et/ou -De construire un nouveau bâtiment(une fois tous les bâtiments construits cette fonctionnalité n’est plus disponible)
 Lorsque le joueur a choisi ou bien passé cette option(manque de ressources) le jour se termine
 et un nouveau jour commence avec une nouvelle météo(Soleil[20 % de chance], Pluie[20 % de chance], Nuageux[50 % de chance], Canicule[10 % de chance])
+
 **Avec l’action "Récupérer de l’eau" :**
 - Pluie : Le joueur récupère 4 d’eau (Le premier jour de jeu est forcément un jour de pluie)
 - Nuageux : Le joueur récupère 2 d’eau
