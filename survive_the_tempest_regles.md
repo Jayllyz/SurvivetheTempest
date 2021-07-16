@@ -45,7 +45,8 @@ et un nouveau jour commence avec une nouvelle météo(Soleil[20 % de chance], 
 - Or : /10
 
 **Fonctionnement d’une fin de jour :**
-À chaque fin de jour une partie des ressources(viande, eau) diminue, si l’on est à 0 d’eau ou de viande avant la fin du jour, on meurt et la partie prends fin
+À chaque fin de jour une partie des ressources(viande, eau) diminue, si l’on est à 0 d’eau ou de viande avant la fin du jour, on meurt et la partie prends fin.
+
 **Les ressources se consomment ainsi :**
 - Viande :
     - Pendant les 6 premiers jours : Nombre de jours passés - 1 (Exemple : Jour 2, une seule viande est consommée)
@@ -63,7 +64,7 @@ Le seul moyen de se protéger de la tempête(et de gagner la partie) est d’avo
 **Pour les bâtiments :**
 
 **Pour le bois :**
-chaque niveau augmente le pourcentage de chance de drop une(ou plusieurs) ressources à la fois
+chaque niveau augmente le pourcentage de chance de drop une (ou plusieurs) ressources à la fois
 Augmente le nombre de ressources de bases récoltées
 - lvl 1 coût(1 bois) - > +1 de base
 - lvl 2 coûts(2 bois) - > +1 de base
@@ -92,8 +93,8 @@ Chaque niveau augmente le pourcentage de chance de drop une ressource plus rare
 - lvl 10 coût(40 pierre, 25 bois, 12 cuivre, 6 fer, 3 or) -> +1 de base et 75% de chance de +1, 55% de chance de +1, fer = 20%, pierre = 40%, or = 10%
 
 **Pour L'eau et la viande :**
-chaque niveau augmente le pourcentage de chance de drop une(ou plusieurs) ressources à la fois
-et le pourcentage d'en perdre un(ou plusieurs) de moins
+chaque niveau augmente le pourcentage de chance de drop une (ou plusieurs) ressources à la fois
+et le pourcentage d'en perdre une (ou plusieurs) de moins
 - lvl 1 coût(1 bois) - > +15% de chance de +1
 - lvl 2 coût(3 bois, 1 pierre) - > 20% de chance de +1 , +15% de garder 1
 - lvl 3 coût(3 pierre, 1 bois) - > 30% de chance de +1, 15% de garder 1
