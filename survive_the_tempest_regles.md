@@ -64,16 +64,16 @@ Le seul moyen de se protéger de la tempête(et de gagner la partie) est d’avo
 **Pour le bois :**
 chaque niveau augmente le pourcentage de chance de drop une(ou plusieurs) ressources à la fois
 Augmente le nombre de ressources de bases récoltées
-lvl 1 coût(1 bois) - > +1 de base
-lvl 2 coûts(2 bois) - > +1 de base
-lvl 3 coûts(3 bois, 1 pierre) - > +1 de base
-lvl 4 coûts(4 bois, 2 pierre) - > 33 % de chance de +1
-lvl 5 coûts(6 bois, 4 pierre) - > 45 % de chance de +1
-lvl 6 coûts(10 bois, 8 pierre, 3 cuivre) -> 45 % de chance de +1, +25 % de chance de +1
-lvl 7 coûts(15 bois, 10 pierre, 6 cuivre, 1 fer) -> +1 de base
-lvl 8 coûts(25 bois, 15 pierre, 10 cuivre, 4 fers) - > 55 % de chance de +1, 33 % de chance de +1
-lvl 9 coûts(30 bois, 20 pierre, 12 cuivre, 6 fers, 1 or) - > 60 % de chance de +1, 45 % de chance de +1
-lvl 10 coûts(40 bois, 25 pierre, 12 cuivre, 6 fers, 3 ors) -> +1 de base et 75 % de chance de +1, 55 % de chance de +1
+- lvl 1 coût(1 bois) - > +1 de base
+- lvl 2 coûts(2 bois) - > +1 de base
+- lvl 3 coûts(3 bois, 1 pierre) - > +1 de base
+- lvl 4 coûts(4 bois, 2 pierre) - > 33 % de chance de +1
+- lvl 5 coûts(6 bois, 4 pierre) - > 45 % de chance de +1
+- lvl 6 coûts(10 bois, 8 pierre, 3 cuivre) -> 45 % de chance de +1, +25 % de chance de +1
+- lvl 7 coûts(15 bois, 10 pierre, 6 cuivre, 1 fer) -> +1 de base
+- lvl 8 coûts(25 bois, 15 pierre, 10 cuivre, 4 fers) - > 55 % de chance de +1, 33 % de chance de +1
+- lvl 9 coûts(30 bois, 20 pierre, 12 cuivre, 6 fers, 1 or) - > 60 % de chance de +1, 45 % de chance de +1
+- lvl 10 coûts(40 bois, 25 pierre, 12 cuivre, 6 fers, 3 ors) -> +1 de base et 75 % de chance de +1, 55 % de chance de +1
 
 **Pour la pierre :**
 chaque niveau augmente le pourcentage de chance de drop une(ou plusieurs) ressources à la fois
@@ -93,27 +93,27 @@ Chaque niveau augmente le pourcentage de chance de drop une ressource plus rare
 **Pour L'eau et la viande :**
 chaque niveau augmente le pourcentage de chance de drop une(ou plusieurs) ressources à la fois
 et le pourcentage d'en perdre un(ou plusieurs) de moins
-lvl 1 coût(1 bois) - > +15% de chance de +1
-lvl 2 coût(3 bois, 1 pierre) - > 20% de chance de +1 , +15% de garder 1
-lvl 3 coût(3 pierre, 1 bois) - > 30% de chance de +1, 15% de garder 1
-lvl 4 coût(4 pierre , 2 bois) - > 35% de chance de +1, 20% de garder 1
-lvl 5 coût(6 pierre , 4 bois) - > 40% de chance de +1, 25% de garder 1, + 15% de chance de +1
-lvl 6 coût(10 pierre, 8 bois, 3 cuivre) -> 45% de chance de +1, 30% de garder 1, 20% de chance de +1
-lvl 7 coût(15 pierre , 10 bois, 6 cuivre, 1 fer) -> 50% de chance de +1, 35% de garder 1, 25% de chance de +1
-lvl 8 coût(25 pierre, 15 bois, 10 cuivre , 4 fer) - > 55% de chance de +1, 35% de garder 1, 30% de chance de +1, +15% de garder 1
-lvl 9 coût(30 pierre, 20 bois, 12 cuivre, 6 fer, 1 or) - > 55% de chance de +1, 40% de garder 1, 35% de chance de +1, 30% de garder 1
-lvl 10 coût(40 pierre, 25 bois, 12 cuivre, 6 fer, 3 or) -> 60% de chance de +1, 45% de garder 1, 35% de chance de +1, 10% de garder 2
+- lvl 1 coût(1 bois) - > +15% de chance de +1
+- lvl 2 coût(3 bois, 1 pierre) - > 20% de chance de +1 , +15% de garder 1
+- lvl 3 coût(3 pierre, 1 bois) - > 30% de chance de +1, 15% de garder 1
+- lvl 4 coût(4 pierre , 2 bois) - > 35% de chance de +1, 20% de garder 1
+- lvl 5 coût(6 pierre , 4 bois) - > 40% de chance de +1, 25% de garder 1, + 15% de chance de +1
+- lvl 6 coût(10 pierre, 8 bois, 3 cuivre) -> 45% de chance de +1, 30% de garder 1, 20% de chance de +1
+- lvl 7 coût(15 pierre , 10 bois, 6 cuivre, 1 fer) -> 50% de chance de +1, 35% de garder 1, 25% de chance de +1
+- lvl 8 coût(25 pierre, 15 bois, 10 cuivre , 4 fer) - > 55% de chance de +1, 35% de garder 1, 30% de chance de +1, +15% de garder 1
+- lvl 9 coût(30 pierre, 20 bois, 12 cuivre, 6 fer, 1 or) - > 55% de chance de +1, 40% de garder 1, 35% de chance de +1, 30% de garder 1
+- lvl 10 coût(40 pierre, 25 bois, 12 cuivre, 6 fer, 3 or) -> 60% de chance de +1, 45% de garder 1, 35% de chance de +1, 10% de garder 2
 
 **Pour l'abri :**
-lvl 1 coût(GRATUIT)
-lvl 2 coût(1 bois, 1 pierre)
-lvl 3 coût(2 pierre, 1 bois)
-lvl 4 coût(4 pierre , 2 bois)
-lvl 5 coût(6 pierre , 4 bois)
-lvl 6 coût(8 pierre, 8 bois, 1 cuivre)
-lvl 7 coût(10 pierre , 10 bois, 3 cuivre)
-lvl 8 coût(12 pierre, 12 bois, 5 cuivre , 1 fer)
-lvl 9 coût(15 pierre, 15 bois, 8 cuivre, 2 fer)
-lvl 10 coût(20 pierre, 20 bois, 10 cuivre, 4 fer, 1 or)
-lvl 11 coût(25 pierre, 25 bois, 10 cuivre, 4 fer, 2 or)
-lvl 12 coût(25 pierre , 25 bois, 11 cuivre, 5 fer, 10 or)
+- lvl 1 coût(GRATUIT)
+- lvl 2 coût(1 bois, 1 pierre)
+- lvl 3 coût(2 pierre, 1 bois)
+- lvl 4 coût(4 pierre , 2 bois)
+- lvl 5 coût(6 pierre , 4 bois)
+- lvl 6 coût(8 pierre, 8 bois, 1 cuivre)
+- lvl 7 coût(10 pierre , 10 bois, 3 cuivre)
+- lvl 8 coût(12 pierre, 12 bois, 5 cuivre , 1 fer)
+- lvl 9 coût(15 pierre, 15 bois, 8 cuivre, 2 fer)
+- lvl 10 coût(20 pierre, 20 bois, 10 cuivre, 4 fer, 1 or)
+- lvl 11 coût(25 pierre, 25 bois, 10 cuivre, 4 fer, 2 or)
+- lvl 12 coût(25 pierre , 25 bois, 11 cuivre, 5 fer, 10 or)
