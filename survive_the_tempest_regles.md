@@ -60,6 +60,7 @@ Pluie[20 %], Soleil[20 %], Canicule[20 %], Nuageux[20 %] et Tempête[20 %], la t
 Le seul moyen de se protéger de la tempête(et de gagner la partie) est d’avoir l’abri au niveau 12, le jeu continue jusqu’à ce que la tempête soit apparue
 
 **Pour les bâtiments :**
+
 **Pour le bois :**
 chaque niveau augmente le pourcentage de chance de drop une(ou plusieurs) ressources à la fois
 Augmente le nombre de ressources de bases récoltées
@@ -73,6 +74,7 @@ lvl 7 coûts(15 bois, 10 pierre, 6 cuivre, 1 fer) -> +1 de base
 lvl 8 coûts(25 bois, 15 pierre, 10 cuivre, 4 fers) - > 55 % de chance de +1, 33 % de chance de +1
 lvl 9 coûts(30 bois, 20 pierre, 12 cuivre, 6 fers, 1 or) - > 60 % de chance de +1, 45 % de chance de +1
 lvl 10 coûts(40 bois, 25 pierre, 12 cuivre, 6 fers, 3 ors) -> +1 de base et 75 % de chance de +1, 55 % de chance de +1
+
 **Pour la pierre :**
 chaque niveau augmente le pourcentage de chance de drop une(ou plusieurs) ressources à la fois
 Augmente le nombre de ressources de bases récoltées
@@ -87,6 +89,7 @@ lvl 7 coûts,(15 pierre , 10 bois, 6 cuivre, 1 fer) -> +1 de base de pierre
 lvl 8 coûts(25 pierre, 15 bois, 10 cuivre , 4 fer) - > 55% de chance de +1, 33% de chance de +1 ,or = 7%, pierre = 53%
 lvl 9 coût(30 pierre, 20 bois, 12 cuivre, 6 fer, 1 or) - > 60% de chance de +1, 45% de chance de +1 , cuivre = 30% , pierre = 48%
 lvl 10 coût(40 pierre, 25 bois, 12 cuivre, 6 fer, 3 or) -> +1 de base et 75% de chance de +1, 55% de chance de +1, fer = 20%, pierre = 40%, or = 10%
+
 **Pour L'eau et la viande :**
 chaque niveau augmente le pourcentage de chance de drop une(ou plusieurs) ressources à la fois
 et le pourcentage d'en perdre un(ou plusieurs) de moins
@@ -100,6 +103,7 @@ lvl 7 coût(15 pierre , 10 bois, 6 cuivre, 1 fer) -> 50% de chance de +1, 35% de
 lvl 8 coût(25 pierre, 15 bois, 10 cuivre , 4 fer) - > 55% de chance de +1, 35% de garder 1, 30% de chance de +1, +15% de garder 1
 lvl 9 coût(30 pierre, 20 bois, 12 cuivre, 6 fer, 1 or) - > 55% de chance de +1, 40% de garder 1, 35% de chance de +1, 30% de garder 1
 lvl 10 coût(40 pierre, 25 bois, 12 cuivre, 6 fer, 3 or) -> 60% de chance de +1, 45% de garder 1, 35% de chance de +1, 10% de garder 2
+
 **Pour l'abri :**
 lvl 1 coût(GRATUIT)
 lvl 2 coût(1 bois, 1 pierre)
