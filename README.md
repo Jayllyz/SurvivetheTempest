@@ -21,7 +21,7 @@ Chaque jour le joueur dispose de 4 actions possibles :
 
 Il va falloir choisir très rigoureusement quelle action choisir pour ne pas manquer de quoi que ce soit, car à chaque fin de jour une partie des ressources(viande, eau) diminue, si l’on est à 0 d’eau ou de viande avant la fin du jour, on meurt et la partie prend fin.
 
-Vous allez pouvoir améliorer votre capacité à chasser, prendre de l'eau, du bois ou encore de la pierre grace aux différents batiments que vous pourrez découvrir utiliser durant une partie, pour les détails tout est écrit dans `rules.md`.
+Vous allez pouvoir améliorer votre capacité à chasser, prendre de l’eau, du bois ou encore de la pierre grâce aux différents bâtiments que vous pourrez découvrir et utiliser durant une partie, pour les détails tout est écrit dans `rules.md`.
 
 **Immmense merci à Flywase pour la musique du jeu.**
 
