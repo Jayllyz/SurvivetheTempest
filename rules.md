@@ -1,8 +1,11 @@
 # SURVIVE THE TEMPEST - RULES
 
-**Principe du jeu :** Un survivant(avec ses données sauvegardées) doit survivre dans une forêt, et se préparer un abri(niveau "12") afin de résister à la tempête qui arrivera dans les
-prochains jours.
-Chaque tour de jeu correspond à un jour,
+**Principe du jeu :** Vous jouez un survivant météorologue qui doit survivre sur une ile déserte, grâce à vos compétences vous prévoyez une tempête dans les prochains jours, mais vous ne savez pas précisément quand !
+
+Il va falloir vous préparer un abri afin de résister à cette fameuse tempête qui arrivera dans les prochains jours.
+
+Chaque tour de jeu correspond à un jour.
+
 **Chaque jour le joueur dispose de 4 actions possibles :**
 
 - Couper du bois(la quantité récupérée dépend des bâtiments)(pas au premier jour tant que l’abri n’est pas construit)
